@@ -1,0 +1,9 @@
+input{
+    color: black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    width: 400px;
+    font-size: medium;
+}
